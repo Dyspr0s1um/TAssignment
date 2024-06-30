@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/pets">
+        <file>peking.png</file>
+    </qresource>
+</RCC>

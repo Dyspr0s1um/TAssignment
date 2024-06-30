@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/closeBtnBlack_16.png</file>
+        <file>images/closeBtnWhite_16.png</file>
+        <file>images/minimizeBtnBlack_16.png</file>
+        <file>images/minimizeBtnWhite_16.png</file>
+        <file>images/restoreBlack_16.png</file>
+        <file>images/restoreWhite_16.png</file>
+        <file>images/maximizeBtnBlack_16.png</file>
+        <file>images/maximizeBtnWhite_16.png</file>
+        <file>images/errorRed_48.png</file>
+        <file>images/questionBlue_48.png</file>
+        <file>images/successGreen_48.png</file>
+        <file>images/warningYellow_48.png</file>
+        <file>images/logo.jpg</file>
+        <file>images/informationBlue_48.png</file>
+        <file>images/winwindow/1.jpg</file>
+        <file>images/winwindow/close.png</file>
+        <file>images/winwindow/maximize.png</file>
+        <file>images/winwindow/minimize.png</file>
+        <file>images/winwindow/restore.png</file>
+    </qresource>
+</RCC>
